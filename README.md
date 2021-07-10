@@ -1,4 +1,4 @@
 # Git--learning-demo
 
-
-方海莲：hello git
+小明提交了一行代码
+小李也提交了一行代码
